@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+.navbar{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid black;
+}
+.myname{
+    width: 20%;
+}
+.itens{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+
+}
+.list{
+    list-style: none;
+    display: flex;
+    
+}
+  
+  li {
+    margin-right: 30%;
+  }

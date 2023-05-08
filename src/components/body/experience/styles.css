@@ -1,0 +1,21 @@
+.experience{
+    width: 100%;
+    display: flex;
+
+}
+.experiencia{
+    width: 50%;
+}
+.formacao{
+    width: 50%;
+}
+.furukawa,.sisvoo,.ete,.fai{
+    display: flex;
+    align-items: center;
+    margin: 20px;
+
+}
+
+.img{
+    margin-right: 30px;
+}
