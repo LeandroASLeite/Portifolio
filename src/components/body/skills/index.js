@@ -11,8 +11,9 @@ import './styles.css'
 function Skills(){
     return(
         <div className="container ">
+            <h2>Habilidades</h2>
             <div className='skills'>
-                <h2>Habilidades</h2>
+                <div className='front'>
                 <div className='html'>
                     <img src={html} alt="HTML "/> 
                     <label>HTML</label>
@@ -29,6 +30,8 @@ function Skills(){
                     <img src={react} alt="react "/> 
                     <label>React</label>                
                 </div>
+                </div>
+                <div className='back'>
                 <div className='python'>
                     <img src={python} alt="python "/> 
                     <label>Python</label>
@@ -40,6 +43,7 @@ function Skills(){
                 <div className='java'>
                     <img src={java} alt="java "/> 
                     <label>Java</label>
+                </div>
                 </div>
             </div>
         </div>

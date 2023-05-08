@@ -1,3 +1,17 @@
 .skills{
     display: flex;
 }
+.skills img {
+    width: 80px; /* Definindo a largura das imagens */
+    height: 80px; /* Definindo a altura das imagens para ser ajustada automaticamente */
+  }
+
+
+.html,.css,.js,.react,.python,.mongodb,.java{
+    display: flex;
+    align-items: center;
+}
+.front{
+    display: flex;
+    flex-direction: column;
+}
