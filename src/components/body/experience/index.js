@@ -7,9 +7,10 @@ import furukawa from './files/furukawa.png'
 
 function Experience() {
     return (
-        <div className='container'>
+        <div className='Container' id='experience'>
+            <h2>Experiência</h2>
             <div className='experience'>
-                <h2>Experiência</h2>
+                
                 <div className='experiencia'>
                     <div className='furukawa'>
                         <img src={furukawa} className='img' alt="furukawa" />

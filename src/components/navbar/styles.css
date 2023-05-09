@@ -11,15 +11,25 @@
     padding-top: 10px;
     padding-bottom: 10px;
     border-bottom: 1px solid black;
+    position: fixed;
+    top:0;
+    background-color: rgb(153, 153, 153);
 }
 .myname{
-    width: 20%;
+    
+    margin-left: 10%;
+}
+.myname :hover{
+    cursor: pointer;
 }
 .itens{
     width: 50%;
     display: flex;
     justify-content: center;
 
+}
+.itens :hover{
+    cursor: pointer;
 }
 .list{
     list-style: none;
@@ -29,4 +39,8 @@
   
   li {
     margin-right: 30%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+
   }

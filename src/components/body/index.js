@@ -8,9 +8,6 @@ function Body() {
         <div className="body">
          
          <Home/>
-         {/* <About/>
-         <Experience/>
-         <Skills/> */}
          <About/>
          <Experience/>
          <Skills/>

@@ -1,16 +1,17 @@
+import { Link, animateScroll } from 'react-scroll';
 import './styles.css'
-function Navbar(){
-    return(
+function Navbar() {
+    return (
         <div className="navbar">
             <div className="myname">
-                <label>LL</label>
+                <label><Link to="home" smooth={true} duration={500}>LL</Link></label>
             </div>
             <div className="itens">
                 <ul className="list">
-                <li>Sobre</li>
-                <li>Experiência</li>
-                <li>Competências</li>
-               </ul>
+                    <li><Link to="about" smooth={true} duration={500}>Sobre</Link></li>
+                    <li><Link to="experience" smooth={true} duration={500}>Experiência</Link></li>
+                    <li><Link to="skills" smooth={true} duration={500}>Competências</Link></li>
+                </ul>
             </div>
 
         </div>

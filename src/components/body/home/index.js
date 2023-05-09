@@ -3,7 +3,7 @@ import { FaLaptopCode, FaMicrochip, FaGithub, FaLinkedin } from "react-icons/fa"
 import Logo from './logo0.png'
 function Home() {
     return (
-        <div className="container">
+        <div className="container" id='home'>
             <div className="home">
                 <div className="name">
                     <label>Olá, eu sou<br /></label>
