@@ -11,13 +11,13 @@ function Home() {
 
                 </div>
                 <div className="info">
-                    <label className='align'><FaMicrochip />Técnico em Eletrônica</label>
-                    <label className='align'><FaLaptopCode />Desenvolvedor</label>
+                    <label className='Align'><FaMicrochip /> Técnico em Eletrônica</label>
+                    <label className='Align'><FaLaptopCode /> Desenvolvedor</label>
                 </div>
                 <div className="button">
                     
-                    <button className='align' id="github" onClick={()=>{window.location.href ="https://github.com/LeandroASLeite"}}><FaGithub />Github</button>
-                    <button className='align' id="linkedin"onClick={()=>{window.location.href ="https://www.linkedin.com/in/leandro-leite-760931186/"}}><FaLinkedin />LinkedIn</button>
+                    <button className='align' id="github" onClick={()=>{window.location.href ="https://github.com/LeandroASLeite"}}><FaGithub /> Github</button>
+                    <button className='align' id="linkedin"onClick={()=>{window.location.href ="https://www.linkedin.com/in/leandro-leite-760931186/"}}><FaLinkedin /> LinkedIn</button>
                     
                 </div>
 
