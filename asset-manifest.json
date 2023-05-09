@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Portifolio/static/css/main.8be2ffc2.css",
+    "main.js": "/Portifolio/static/js/main.89f23304.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Portifolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/logo0.png": "/Portifolio/static/media/logo0.6195c0c1ca2d9fb2e0a5.png",
+    "static/media/Me.png": "/Portifolio/static/media/Me.c1be26f62a699263ee92.png",
+    "static/media/LeandroLeite.pdf": "/Portifolio/static/media/LeandroLeite.66722de8e5c9f017d63b.pdf",
+    "index.html": "/Portifolio/index.html",
+    "main.8be2ffc2.css.map": "/Portifolio/static/css/main.8be2ffc2.css.map",
+    "main.89f23304.js.map": "/Portifolio/static/js/main.89f23304.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Portifolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8be2ffc2.css",
+    "static/js/main.89f23304.js"
+  ]
+}
